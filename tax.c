@@ -6,6 +6,7 @@
  *	Assigment 2: Tax refund calculator
  */
 
+/* Macros for constant values in the program */
 #define dependent_allocation 3000
 #define personal_allowance 5000 
 
